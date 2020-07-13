@@ -1,0 +1,28 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+a {
+	font: normal 12px Arial, Verdana, "\5b8b\4f53";
+	color: #999;
+	text-decoration: none;
+}
+
+body {
+	font: normal 12px Arial, Verdana, "\5b8b\4f53";
+	color: #999;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+input {
+	outline: none;
+}
+
+button {
+	outline: none;
+}
