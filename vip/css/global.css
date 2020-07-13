@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('../iconfont/iconfont.eot');
+    src: url('../iconfont/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('../iconfont/iconfont.woff') format('woff'),
+    url('../iconfont/iconfont.ttf') format('truetype'),
+    url('../iconfont/iconfont.svg#iconfont') format('svg');
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+*{margin: 0px;padding: 0px;}
+li{list-style: none;}
+body{font: 12px/1.5 "Microsoft YaHei", Arial, Verdana, "sans-serif";background: #fff;color: #444;}
+.red{color:#f03435;}
+img{border:0;}
+a{text-decoration: none;color: #4c334c}
