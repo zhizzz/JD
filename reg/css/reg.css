@@ -1,0 +1,53 @@
+/*头*/
+#head{height:110px;background:url(../images/headbg.jpg) repeat-x bottom;}
+#head .logo{width:1210px;height:76px;margin:auto;}
+#head .lo{width:160px;height:50px;margin-top:24px;float:left;background:url(../images/icon.png) no-repeat;}
+#head .reg{width:96px;height:34px;margin-top:34px;float:left;color:#333;font-size:24px;}
+#head .login{float:right;height:21px;margin-top:55px;color:#999;font-size:16px;}
+#head .login a{font-size:16px;color:#ee2222;}
+#head .login a:hover{color:#c81623;text-decoration:underline;}
+/*主要的*/
+#main{width:1190px;margin:auto;margin-bottom:150px;}
+/*主要的上*/
+#main .top{width:400px;height:55px;margin:auto;margin-top:80px;margin-bottom:50px;position:relative;}
+#main .top .jt,#main .top .left,#main .top .cent,#main .top .right{float:left;}
+#main .top .jt{top:8px;width:124px;height:10px;position:absolute;left:50px;background:url(../images/reg-icon.png) no-repeat 0px -100px;}
+#main .top .jt.r{left:230px;}
+#main .top .left{width:60px;height:55px;margin-right:100px;}
+#main .top .left .t,#main .top .cent .t,#main .top .right .t{width:24px;height:24px;border-radius:12px;background:#3b4;margin:auto;color:#FFF;line-height:24px;text-align:center;font-weight:bolder;}
+#main .top .left p,#main .top .cent p,#main .top .right p{margin-top:10px;color:#3b4;}
+#main .top .cent{width:72px;height:55px;margin-right:120px;}
+#main .top .cent .t,#main .top .right .t{width:22px;height:22px;line-height:22px;border-radius:13px;background:#fff;border:solid 2px #ccc;;color:#ccc;;}
+#main .top .cent p{color:#999;}
+#main .top .right{width:48px;height:55px;}
+#main .top .right p{color:#999;}
+/*主要的中*/
+#main .center{width:400px;height:245px;margin:auto;}
+#main .center .t,#main .center .c,#main .center .b{border:solid 1px #dddddd;width:400px;height:54px;margin-bottom:32px;}
+#main .center .t .l{width:87px;height:54px;float:left;border-right:solid 1px #dddddd;font-size:14px;color:#666;line-height:54px;padding-left:20px;}
+#main .center .t .l i{margin-top:17px;margin-right:10px;float:right;width:15px;height:15px;background:url(../images/icon.png) no-repeat -2px -150px;}
+#main .center .t .r{width:272px;height:36px;float:left;padding-left:20px;padding-top:18px;}
+#main .center .t .r input{border:0;color:#999;outline:none;}
+#main .center .t:hover{cursor: pointer;}
+#main .center .c{text-align:center;line-height:54px;color:#333;font-size:14px;margin:0px;background:#fff;}
+#main .center .c:hover{border-color:#333;cursor: pointer;}
+#main .center .b{margin-top:50px;background:#e2231a;color:#FFF;font-size:16px;text-align:center;line-height:54px;border:0;cursor:pointer;}
+#main .center .b:hover{background:#c81623;}
+/*主要的右*/
+#main .bottom{margin:auto;margin-top:28px;width:400px;height:28px;}
+#main .bottom .left,#main .bottom .right{float:left;font-size:14px;color:#333;}
+#main .bottom .left{width:118px;height:28px;}
+#main .bottom .left i,#main .bottom .right i{background:url(../images/reg-icon.png) no-repeat 0px -160px;float:left;width:26px;height:26px;margin-right:8px;margin-top:-3px;}
+#main .bottom .right i{background-position:-40px -160px;}
+#main .bottom .right{float:right;width:108px;height:28px;}
+#main .bottom a:hover{color:#c81623;}
+/*脚*/
+#foot{width:990px;margin: 25px auto;border-top:solid 1px #e6e6e6;padding-top:30px;}
+#foot .foot_c{text-align:center;color:#666;}
+#foot .foot_c a{margin:0px 10px;color:#666;}
+#foot .foot_c a:hover{color:#E4393C;}
+#foot p{color:#666;text-align:center;margin-top:15px;}
+#foot p span{margin-right:5px;}
+/*右侧*/
+#right{width:33px;height:135px;position:fixed;bottom:50%;background:url(../images/icon.png) no-repeat -367px 0;right:0px;}
+#right:hover{background-position:-334px 0;cursor: pointer;}
