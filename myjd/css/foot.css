@@ -1,0 +1,44 @@
+
+/*½Å*/
+#foot{color: #777;}
+#foot a{color: #777}
+#foot .t{padding:30px 0;border-bottom:solid 1px #dedede;}
+#foot .t ul{width:1190px;height:42px;margin:auto;}
+#foot .t ul li{width:297px;float:left;}
+#foot .t ul li .jz{width:220px;height:42px;margin:auto;}
+#foot .t ul li .jz h1,#foot .t ul li p{float:left;height:100%;line-height:42px;font-size:18px;font-weight:bolder;color:#444;}
+#foot .t ul li .jz h1{width:36px;background:url(../images/foot.png) no-repeat 0px -192px;margin-right:20px;}
+#foot .t ul li .jz h1.two{background-position:-41px -192px;}
+#foot .t ul li .jz h1.three{background-position:-82px -192px;}
+#foot .t ul li .jz h1.four{background-position:-123px -192px;}
+#foot .c{padding:20px 0px;overflow:hidden;}
+#foot .c .jz{width:1295px;margin:auto;padding-left:190px;}
+#foot .c .jz .container{width:255px;height:160px;float:left;}
+#foot .c .jz .container h1{margin-bottom:10px;font-size:14px;color:#666;}
+#foot .c .jz .container ul li a{color:#666;line-height:22px;}
+#foot .c .jz .container a:hover{color:#c81623;}
+#foot .c .jz .container.zuixia{background:url(../images/foot.png) no-repeat 0px 5px;}
+#foot .c .jz .container.zuixia h1{text-align:center;}
+#foot .c .jz .container.zuixia p.zy{text-align:right;}
+#foot .c .jz .container.zuixia p.zy a i{font-size:13px;}
+#foot .b{width:1190px;margin:auto;border-top:solid 1px #dedede;padding:15px 0px;}
+#foot .top a{color:#666;}
+#foot .top{margin-bottom:10px;}
+#foot .b p{text-align:center;height:22px;}
+#foot .b p .mm{margin-left:10px;}
+#foot .b .teshu i{margin-right:10px;width:15px;height:12px;background:url(../images/foot.png) no-repeat -108px -155px;float:left;margin-top:2px;}
+#foot .b .teshu i.one{background-position:-168px -155px;}
+#foot .b .teshu i.two{background-position:-148px -155px;}
+#foot .b .teshu i.three{background-position:-128px -155px;}
+#foot .b .teshu i.four{background-position:-108px -172px;}
+#foot .b .teshu{width:630px;margin:auto;}
+#foot .b .teshu a{float:left;}
+#foot .b .teshu span{float:left;}
+#foot .b .hou{margin:25px auto;height:32px;width:545px;}
+#foot .b .hou a{float:left;height:32px;width:103px;margin:0px 3px;background:url(../images/foot.png) no-repeat -205px -111px;}
+#foot .b a:hover{color:#c81623;}
+#foot .b .hou a.one{background-position:-205px -74px;}
+#foot .b .hou a.two{background-position:-205px -37px;}
+#foot .b .hou a.three{background-position:-205px 0px;}
+#foot .b .hou a.four{background-position:0px -155px;}
+#foot .b p span{margin:0px 10px;color:#ccc;}
